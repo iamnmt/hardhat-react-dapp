@@ -1,0 +1,1 @@
+# A front-end application for interacting with Solidity smart contracts
