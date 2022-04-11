@@ -1,5 +1,7 @@
 # Hardhat React Dapp
 
+[![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
+
 This repository contains a beginner project I built for learning basic web and smart contract development.
 
 ## Quick start
@@ -43,6 +45,7 @@ need to have [Metamask](https://metamask.io) installed and listening to `localho
 ## Testing
 
 There is prepared tests in the `test/` folder:
+
 ```sh
 npx hardhat test
 ```
@@ -70,7 +73,9 @@ npx hardhat verify --network rinkeby <DEPLOYED_CONTRACT_ADDRESS>
 ```
 
 ## Contracts completed
+
 Before interacting with any contract you need to connect to your address first by going to the "Connect" tab.
+
 ### Fund Me
 
 ![FundMe](img/fundme.png)
